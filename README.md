@@ -3,7 +3,7 @@
 A professional-grade Shiny app for budgeting the ICABR 2026 conference.  
 It models revenue from registrations, tracks fixed and variable costs, visualizes financial summaries, and exports key data for reporting.
 
-![ICABR Logo](www/logo.jpg)
+![ICABR Logo](logo.jpg)
 
 ---
 
